@@ -1,0 +1,19 @@
+{
+  "name": "mobilemakeover",
+  "version": "1.0.0",
+  "description": "C2C shop for stylists to come to you!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kreecat/MobileMakeover.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kreecat/MobileMakeover/issues"
+  },
+  "homepage": "https://github.com/Kreecat/MobileMakeover#readme"
+}
